@@ -53,4 +53,6 @@ Here are some ideas to get you started:
     </a>
 </div>
   
-![Snake animation](https://github.com/hiseg10/hiseg10/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/{{hiseg10}}/{{hiseg10}}/blob/output/github-contribution-grid-snake.svg)
+
