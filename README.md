@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 ## Faaaala dev, sou Helio, seja bem vindo!
 
+
+
+
 <div>
-  
+
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hiseg10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiseg10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
@@ -54,6 +58,9 @@ Here are some ideas to get you started:
 </div>
   
 
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hiseg10&theme=gotham)
+  
 ![Snake animation](https://github.com/{{hiseg10}}/{{hiseg10}}/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
