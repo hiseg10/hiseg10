@@ -52,9 +52,7 @@ Here are some ideas to get you started:
     <a href = "https://www.youtube.com/@hisegtec2009">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+   
 </div>
   
 
