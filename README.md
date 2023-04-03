@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hiseg10}/count.svg" /></p> 
 <br></div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
