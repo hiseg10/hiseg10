@@ -61,11 +61,8 @@ Here are some ideas to get you started:
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hiseg10&theme=gotham)
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/hiseg10/hiseg10/blob/output/github-contribution-grid-snake.svg)
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hiseg10}/count.svg" /></p> 
